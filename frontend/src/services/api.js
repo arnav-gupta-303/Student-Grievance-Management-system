@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'https://grievance-backend.onrender.com/api', 
+  baseURL: 'https://grieviance-backened.onrender.com/api', 
 });
 
 // Add token to requests
